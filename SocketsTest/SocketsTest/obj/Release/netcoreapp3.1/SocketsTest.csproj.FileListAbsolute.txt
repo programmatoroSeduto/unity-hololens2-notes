@@ -1,0 +1,14 @@
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.csproj.AssemblyReference.cache
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.AssemblyInfoInputs.cache
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.AssemblyInfo.cs
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.csproj.CoreCompileInputs.cache
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.exe
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.deps.json
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.runtimeconfig.json
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.runtimeconfig.dev.json
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.dll
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\bin\Release\netcoreapp3.1\SocketsTest.pdb
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.dll
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.pdb
+C:\shared\UnityHoloLens2\testProjects\SocketsTest\SocketsTest\obj\Release\netcoreapp3.1\SocketsTest.genruntimeconfig.cache

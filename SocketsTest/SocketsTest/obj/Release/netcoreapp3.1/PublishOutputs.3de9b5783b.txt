@@ -1,0 +1,5 @@
+C:\shared\UnityHoloLens2\testProjects\Pub\talker_listener\SocketsTest.exe
+C:\shared\UnityHoloLens2\testProjects\Pub\talker_listener\SocketsTest.dll
+C:\shared\UnityHoloLens2\testProjects\Pub\talker_listener\SocketsTest.deps.json
+C:\shared\UnityHoloLens2\testProjects\Pub\talker_listener\SocketsTest.runtimeconfig.json
+C:\shared\UnityHoloLens2\testProjects\Pub\talker_listener\SocketsTest.pdb

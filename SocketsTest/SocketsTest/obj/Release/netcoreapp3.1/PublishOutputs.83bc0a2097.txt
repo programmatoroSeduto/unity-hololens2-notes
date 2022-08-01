@@ -1,0 +1,5 @@
+C:\shared\UnityHoloLens2\testProjects\Pub\listener\SocketsTest.exe
+C:\shared\UnityHoloLens2\testProjects\Pub\listener\SocketsTest.dll
+C:\shared\UnityHoloLens2\testProjects\Pub\listener\SocketsTest.deps.json
+C:\shared\UnityHoloLens2\testProjects\Pub\listener\SocketsTest.runtimeconfig.json
+C:\shared\UnityHoloLens2\testProjects\Pub\listener\SocketsTest.pdb
