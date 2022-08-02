@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetworkSocket
+build_property.ProjectDir = C:\shared\UnityHoloLens2\testProjects\SocketsTest\NetworkSocket\

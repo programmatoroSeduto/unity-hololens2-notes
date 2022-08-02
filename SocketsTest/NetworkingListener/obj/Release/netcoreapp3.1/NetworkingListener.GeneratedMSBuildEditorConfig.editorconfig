@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetworkingListener
+build_property.ProjectDir = C:\shared\UnityHoloLens2\testProjects\SocketsTest\NetworkingListener\
